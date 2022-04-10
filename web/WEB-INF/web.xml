@@ -6,7 +6,7 @@
 	 version="3.1">
     <servlet>
         <servlet-name>httpServlet</servlet-name>
-        <servlet-class>com.httppackage</servlet-class>
+        <servlet-class>com.httppackage.httpServlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>httpServlet</servlet-name>
